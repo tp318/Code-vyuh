@@ -1,0 +1,11 @@
+shipment_id,origin,destination,distance_km,weight_kg,vehicle_type,departure_time,expected_delay,carbon_emissions,customer_id
+SH001,Mumbai,Delhi,1425,500,Truck,2026-03-07 08:00:00,0,285.0,C001
+SH002,Chennai,Bangalore,346,250,Van,2026-03-07 09:30:00,15,69.2,C002
+SH003,Kolkata,Hyderabad,1195,750,Truck,2026-03-07 10:15:00,30,239.0,C003
+SH004,Pune,Ahmedabad,676,400,Truck,2026-03-07 11:00:00,0,135.2,C004
+SH005,Delhi,Jaipur,280,300,Van,2026-03-07 12:30:00,45,56.0,C005
+SH006,Bangalore,Chennai,346,600,Truck,2026-03-07 13:00:00,0,69.2,C006
+SH007,Mumbai,Pune,148,200,Van,2026-03-07 14:15:00,20,29.6,C007
+SH008,Hyderabad,Bangalore,575,450,Truck,2026-03-07 15:00:00,0,115.0,C008
+SH009,Delhi,Lucknow,555,350,Van,2026-03-07 16:30:00,25,111.0,C009
+SH010,Kolkata,Patna,557,500,Truck,2026-03-07 17:00:00,0,111.4,C010
